@@ -1,11 +1,11 @@
 # Miscreated-Config
 
-Make sure to set your server name     sv_servername=
+Make sure to set your server name with......sv_servername=
 
-Set your RCON password                http_password=
+Set your RCON password with.................http_password=
 
-Set the motd                          sv_motd=
+Set the with................................motdsv_motd=
 
-add appid of any mods you want        steam_ugc=
+add appid of any mods you want with ........steam_ugc=
 
 change faction names loadouts and whatever health and stamina settings you want
